@@ -914,18 +914,6 @@
       animation-timeline: view();
       animation-range: exit 0% exit 90%;
     }
-    .kicker::after {
-      content: "";
-      display: block;
-      width: 2.4rem;
-      height: 2px;
-      margin-top: 0.4rem;
-      background: currentColor;
-      transform-origin: 0 50%;
-      animation: sdaLine linear both;
-      animation-timeline: view();
-      animation-range: entry 0% entry 90%;
-    }
     .losc-tile {
       animation: viewEnter 0.9s cubic-bezier(0.16, 1, 0.3, 1) both;
       animation-timeline: view();
@@ -2168,7 +2156,6 @@
   .sda-progress,
   .sda-hero-media,
   .losc-hero-copy,
-  .kicker::after,
   .hero-photo-in,
   .hero-cap-in,
   .header-enter,
