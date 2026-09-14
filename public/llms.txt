@@ -1,0 +1,50 @@
+# Louisiana Oral Surgery Center
+
+> Board-certified oral and maxillofacial surgery in Prairieville, Louisiana.
+
+Official site: https://www.louisianaosc.com/
+Primary keyword: oral surgeon Prairieville
+
+## NAP
+
+- Name: Louisiana Oral Surgery Center
+- Address: 14169 Hwy 73 Unit A, Prairieville, LA 70769
+- Phone: (225) 402-2303
+- Insurance claims: (225) 402-2493
+- Geo: 30.302, -90.971 (Prairieville, Ascension Parish, Louisiana)
+
+## Hours
+
+- Monday–Thursday: 7:00 AM–5:00 PM
+- Friday: 8:00 AM–3:00 PM
+- Saturday–Sunday: Closed
+- 24/7 on-call availability (published on the homepage)
+
+## Surgeon
+
+Dr. Steven Nelson, DDS, MD. Board-certified oral and maxillofacial surgeon. Raised in Baton Rouge. LSU undergraduate (biological sciences). DDS, LSU School of Dentistry, New Orleans (top of class; Horace Wells Excellence in Dental Anesthesia Award; Excellence in Implant Dentistry Award; C. Edmund Kells and OKU). Six-year OMFS residency at LSU with an MD. General surgery internship at University Medical Center in New Orleans. Teaches residents at Our Lady of the Lake Regional Medical Center.
+
+Memberships listed: American Dental Association, American Medical Association, Louisiana Dental Association, American Association of Oral and Maxillofacial Surgeons.
+
+## Services
+
+- Wisdom teeth
+- Dental implants (surgeon places the fixture; restorative dentist makes the tooth)
+- Jaw surgery (orthognathic)
+- IV sedation / outpatient general anesthesia (anesthesia specialist on staff; wisdom-teeth page names Dr. Dickerson)
+
+## Areas named
+
+Prairieville · Ascension Parish. One published location. No second office on the official site.
+
+## Pages on this build
+
+- Home: https://www.louisianaosc.com/
+- Privacy: https://www.louisianaosc.com/privacy
+- Terms: https://www.louisianaosc.com/terms
+
+This is a homepage-first site. Menu links stay on the homepage hashes: #services, #surgeon, #office, #register, #faq.
+
+## Contact
+
+Call (225) 402-2303. Online patient registration is published. The web form is a callback; the desk confirms surgery by phone. Do not invent reviews, extra locations, or social profiles. louisianaosc.com does not publish a star rating or review widget.
