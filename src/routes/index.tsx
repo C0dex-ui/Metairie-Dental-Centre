@@ -8,6 +8,7 @@ import { FaqList } from "@/components/faq-list";
 import { InternalLinks } from "@/components/internal-links";
 import { ReviewGrid } from "@/components/review-grid";
 import { BeforeAfter } from "@/components/before-after";
+import { Tilt3D } from "@/components/tilt-3d";
 import { seoHead } from "@/lib/seo";
 import {
   ADDRESS_LINE,
@@ -200,7 +201,7 @@ function SpecialsBlock() {
           </div>
           <Reveal stagger className="mdc-offers">
             {SPECIALS.map((s) => (
-              <article key={s.name} className={`mdc-offer${s.featured ? " is-featured" : ""}`}>
+              <Tilt3D key={s.name} max={s.featured ? 12 : 9} className={`mdc-offer card-3d${s.featured ? " is-featured" : ""}`}>
                 <p className="mdc-offer-name">{s.name}</p>
                 <p className="mdc-offer-kicker">{s.kicker}</p>
                 <p className="mdc-offer-price">{s.price}</p>
@@ -211,7 +212,7 @@ function SpecialsBlock() {
                 <a href="/#register" className="mdc-offer-btn">
                   View details
                 </a>
-              </article>
+              </Tilt3D>
             ))}
           </Reveal>
           <div className="mt-10 flex justify-center">
